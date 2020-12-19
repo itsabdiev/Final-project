@@ -4,6 +4,12 @@
  Today we are going to make game "Ninja in Pyjama" 
  Step 1.
  #Import modules
+ '''ruby
+ import pygame
+ import random
+ from pygame import mixer
+ import math
+
 
  #Set mode of display and style
  
