@@ -1,6 +1,12 @@
 # Final-project
  HI Everyone
  
+ 
+ 
+ 
+ 
+ 
+ ![alt text](https://github.com/itsabdiev/Final-project/blob/kisspng-logo-ninja-5ac0703379ce59.8149697715225610754989.jpg?raw=true)
  Today we are going to make game "Ninja in Pyjama" 
  Step 1.
  #Import modules
